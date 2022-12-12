@@ -65,7 +65,7 @@ INSERT INTO `product` (`id`, `name`, `price`, `image`, `category_id`) VALUES
 (1, 'Päähieronta', 30.00, '', 1),
 (2, 'Viini', 20.00, '', 1),
 (3, 'Laivapako', 50.00, '', 2),
-(4, 'Kauhutalu', 40.00, '', 2),
+(4, 'Kauhutalo', 40.00, '', 2),
 (5, 'Klapi', 10.00, '', 3),
 (6, 'Sauna', 5.00, '', 3),
 (7, 'Poroajelu', 25.00, '', 4),
